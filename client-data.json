@@ -1,0 +1,78 @@
+{
+    "name": "Allison Taylor",
+    "age": "22",
+    "dob": "April 10, 1997",
+    "phone": "(876) 623-5412",
+    "email": "alliTaylor@gmail.com",
+    "occupation": "User Interface Designer / Software Engineer",
+    "bio": "An aspiring Computer Scientist. I curently develop applications and design beautiful user interfaces for various websites and software for local companies and independent clients. Such as kayon-marie.github.io.",
+    "education": [
+        {
+            "school": "Wolmer's Girl's School",
+            "info": [
+                "10 CSEC",
+                "10 CAPE (Units 1 & 2)"
+            ]
+        },
+        {
+            "school": "University of the West Indies",
+            "info": []
+        }
+    ],
+    "achievements": [
+        "1st in the Caribbean for Computer Science and Digital Media",
+        "Science and Technology Dean's List Honours",
+        "Winner of CoC Hackathon",
+        "Mentee to Ilenius"
+    ],
+    "languages": [
+        "HTML",
+        "CSS",
+        "Vue",
+        "Ionic",
+        "Angular",
+        "Javascript",
+        "SQL and Postgresql",
+        "Flask",
+        "Python",
+        "Java",
+        "C"
+    ],
+    "skills": [
+        "Team player",
+        "Problem Solver",
+        "Project Manager"
+    ],
+    "projects": [
+        {
+            "name": "Kolapse",
+            "description": "CRUD app used by company to track geographical readings related to altitudes and other measurements of notable landmarks in Jamaica"
+        },
+        {
+            "name": "UWI App",
+            "description": "Application for the students University of the West Indies"
+        },
+        {
+            "name": "West Roads",
+            "description": "A racing game on Android exploring maps from western countries"
+        },
+        {
+            "name": "Quo",
+            "description": "UI for the quo desktop app. An app used for online shopping experiences"
+        }
+    ],
+    "socials": [
+        {
+            "name": "Github",
+            "url": "assets/github.svg"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "assets/linkedin.svg"
+        },
+        {
+            "name": "Twitter",
+            "url": "assets/twitter.svg"
+        }
+    ]
+}
